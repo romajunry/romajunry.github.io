@@ -1,0 +1,59 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/0.389f841d1e4d38bb527a.chunk.js",
+        "/inline.0c560e4dced93d05d40c.bundle.js",
+        "/main.49fbc60e470ab734901c.bundle.js",
+        "/polyfills.fbc804bb844ee08926a0.bundle.js",
+        "/styles.4cfd80777e187c92c217.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/apple-icon-180x180.png",
+        "/assets/chatbot-avatar.svg",
+        "/assets/favicon-16x16.png",
+        "/assets/favicon-32x32.png",
+        "/assets/icon-128x128.png",
+        "/assets/icon-152x152.png",
+        "/assets/icon-256x256.png",
+        "/assets/icon-512x512.png",
+        "/assets/logo.png",
+        "/assets/notification.mp3"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/0.389f841d1e4d38bb527a.chunk.js": "d0cc65bf9d068103d55920863780b4df56e2aa90",
+    "/assets/apple-icon-180x180.png": "4b6815c37684f357d9f3af7755ae097dd5bcf5b9",
+    "/inline.0c560e4dced93d05d40c.bundle.js": "64d4f8d8fc813571de252fdb633bcb4943cdaf00",
+    "/assets/chatbot-avatar.svg": "72c7f63b637baaa18c2390ca80a7cbdfe45575b1",
+    "/main.49fbc60e470ab734901c.bundle.js": "b92590b1c060b5a0b35a23d78bb10ed322aa8161",
+    "/assets/favicon-16x16.png": "b66e69d0ea054fd06c439ee86c11121eb372e25c",
+    "/polyfills.fbc804bb844ee08926a0.bundle.js": "6040301e26a2e12e8f2de8ac4f465c1457c829dd",
+    "/assets/favicon-32x32.png": "48eb655b7658e889c4fc35ee168f7abb2af368ee",
+    "/styles.4cfd80777e187c92c217.bundle.css": "b20fba403015d2a8c7f53d897ce74fbfceb916eb",
+    "/assets/icon-128x128.png": "263d4f7e49252758fa29d009e375def546d2ce6d",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/assets/icon-152x152.png": "2f5cdc7b3ef28f7bc3be0e197e6ed5023957e674",
+    "/index.html": "9f4dc3aefc7ec5bbdc47e48dceebfb925ffaa992",
+    "/assets/icon-256x256.png": "870e18ddcde58457a7aa8f46c36f36eb9fe0bb24",
+    "/assets/icon-512x512.png": "8beea9a5d71faf08effa374d746b5f0ad4c4d434",
+    "/assets/logo.png": "98855f8650b6f3f456083ee48a8782706d51d488",
+    "/assets/notification.mp3": "c11d84b821468127a58dae0c98d514f5e1962a88"
+  }
+}
